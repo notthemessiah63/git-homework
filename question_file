@@ -5,3 +5,4 @@ I'd use git status for that
 How would you add a file to the staging area?
 I'd use git add [filename]
 How would you commit your changes with the message 'Adding git-test questions'?
+I'd type git commit -m "Adding git-test questions"
