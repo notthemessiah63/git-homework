@@ -3,4 +3,5 @@ I used git clone with my git hub repo info on the command line
 How would you find out what files are currently staged?
 I'd use git status for that
 How would you add a file to the staging area?
+I'd use git add [filename]
 How would you commit your changes with the message 'Adding git-test questions'?
